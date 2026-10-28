@@ -1,0 +1,11 @@
+{
+  "org": "simonw",
+  "repo": "scrape-hacker-news-by-domain",
+  "versions": [
+    {
+      "commit": "9ee51d78f71d076a1ab49847b7ce873e00f1eed4",
+      "tag": "",
+      "parsed_at": "2026-10-28T18:50:45.934592+00:00"
+    }
+  ]
+}
