@@ -1,0 +1,26 @@
+{
+  "manifest_version": "1.0",
+  "org": "simonw",
+  "repo": "scrape-hacker-news-by-domain",
+  "versions": [
+    {
+      "commit": "9ee51d78f71d076a1ab49847b7ce873e00f1eed4",
+      "parsed_at": "2026-10-28T18:48:21.806888+00:00",
+      "filetree": "filetree/9ee51d78f71d076a1ab49847b7ce873e00f1eed4.nq.gz",
+      "blobs": [
+        "blob/4c2990daf964dde5391eb4461abf645476e93f05.nq.gz",
+        "blob/df64b6397139e287d1435d01173417a4364f5459.nq.gz",
+        "blob/ebc024ea7b4ce72d266feb04fc52d4e171968919.nq.gz",
+        "blob/234464fd4f9cca212e5422a6c9cdaa634a8e5704.nq.gz",
+        "blob/16390e7cab729b10c36c7b5167e54c433e91c28b.nq.gz",
+        "blob/289162e22769acde2e3de98e320038a592d97602.nq.gz",
+        "blob/36b0dce6bf093b1c1ffcf7723f6b4774886059a2.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
