@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/simonw/scrape-hacker-news-by-domain/commit/9ee51d78f71d076a1ab49847b7ce873e00f1eed4",
       "git:hexsha": "9ee51d78f71d076a1ab49847b7ce873e00f1eed4",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
